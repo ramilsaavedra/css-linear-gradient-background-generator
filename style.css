@@ -1,0 +1,24 @@
+* {
+	font-family: 'Happy Monkey', cursive;
+	text-align: center;
+	text-shadow: 2px 2px 2px white;
+}
+
+body{
+	background: linear-gradient(to right, #33ccff, #ff99cc);
+}
+
+.container, .inputs{
+	display: flex
+}
+
+.container{
+	height: 100vh;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.inputs *{
+	margin: 0 .5rem;
+}
