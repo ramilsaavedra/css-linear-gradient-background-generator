@@ -1,0 +1,24 @@
+{
+  "name": "css-linear-gradient-background-generator",
+  "version": "1.0.0",
+  "description": "a simple project to understand DOM.",
+  "main": "script.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramilsaavedra/css-linear-gradient-background-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramilsaavedra/css-linear-gradient-background-generator/issues"
+  },
+  "homepage": "https://github.com/ramilsaavedra/css-linear-gradient-background-generator"
+}
